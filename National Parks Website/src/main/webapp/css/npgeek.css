@@ -1,0 +1,170 @@
+ .header123 {
+	float: left;
+	margin-right: 5px;
+	margin-left: 15px;
+	margin-bottom: 0px;
+	background-color: green;
+	border-radius: 5px;
+	list-style: none;
+	text-align: center;
+	width: 100px;
+	height: 40px;
+	padding-top: 20px;
+ 	padding-bottom: 45px; 
+ 	font-size: 20px;
+ 	font-color: white;
+ 	font-family: arial;
+ }
+
+.links{
+	margin-top: 26px;
+	padding-top: -10px;
+	padding-bottom: 65px;
+	background-color: black;
+	width: 100%;
+	margin-bottom: 5px;
+}
+
+.error {
+	color: red;
+	font-size: 14px;
+}
+
+#name {
+	font-family: arial;
+	font-size: 24px;
+}
+
+#state {
+	font-family: arial;
+	color: red;
+	font-size: 18px
+}
+
+#description {
+	font-family: arial;
+	font-style: italic;
+	font-size: 14px;	
+}
+
+#homeText {
+	padding-left: 10px;
+}
+
+.copyright {
+	font-family: arial;
+	font-size: 10px;
+	padding-left: 10px;
+	padding-top: 50px;
+}
+
+
+
+#survey-main-content {
+	margin-left: 55px;
+}
+
+#survey-main-content h1 {
+	font-family: arial;
+	font-size: 36px;
+}
+
+label {
+	font-family: arial;
+	font-size: 20px;
+	padding-right: 10px;
+	
+}
+
+input,
+select,
+textarea {
+    max-width: 280px;
+    border-radius: 3px;
+    margin-bottom: 16px;
+    font-size: 16px;
+    
+}
+
+input[type=submit] {
+	margin-top: 12px;
+	width: 90px;
+	height: 30px;
+	background-color: blue;
+	font-size: 16px;
+	color: white;
+	border: none;
+	border-radius: 3px;
+	cursor: pointer;
+}
+
+input[type=submit]:hover {
+	background-color: #33b2ff;
+}
+
+#surveyResults {
+	font-family: arial;
+	text-align: left;
+}
+
+#surveyResultsHeader {
+	text-align: left;
+	padding-left: 70px;
+	font-family: arial;
+}
+#surveyResultsSubheader {
+	font-family: arial;
+	color: red;
+	text-align: left;
+	font-style: italic;
+	font-size: 12px;
+	padding-left: 75px;
+	margin-top: -10px;
+}
+
+a:link {
+    color: white;
+    text-decoration: none;
+}
+
+
+a:visited {
+    color: white;
+    text-decoration: none;
+}
+
+
+.header123 a:hover {
+    color: red;
+    text-decoration: none;
+}
+
+a:active {
+    color: lightgrey;
+    text-decoration: none;
+}
+
+
+#surveyName {
+	color: green;
+	padding-left: 30px;
+	font-weight: 800;
+}
+
+#votes {
+	font-family: arial;
+	color: red;
+	text-align: center;
+	padding-left: 25px;
+	font-style: italic;
+}
+
+.bodyBelowImage {
+	padding-left: 30px;
+}
+
+#conversionButton {
+	padding-left: 30px;
+}
+
+
